@@ -1,0 +1,7 @@
+﻿Screen Pipe Data Flow,Pixels-per-Cycle,Throughput %,Pixels
+CROP Input Pixels,0.1,0.9%,"2,360,448.0"
+PROP Input Pixels,1.0,1.5%,"16,739,840.0"
+ZCULL Input Pixels,2.1,0.8%,"35,931,648.0"
+ZCULL Output Pixels,2.1,0.8%,"35,897,344.0"
+ZROP Input Pixels,1.0,1.5%,"16,568,064.0"
+ZROP Output Pixels,1.1,0.8%,"18,052,736.0"

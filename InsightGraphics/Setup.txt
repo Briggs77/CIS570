@@ -1,0 +1,13 @@
+Application Executable: C:/570Projects/CIS570Project/OgreNext/Dependencies/Ogre/ogre-next/build/bin/de
+
+Activity: GPU Trace Profiler
+	1. Ampere GA10x(1)
+	2. Start After: Frame Count
+	3. Max Duration (ms): 1000
+	4. Frame Count Before Start
+	5. Reset Activity
+	6. Timeline Metrics: Throughput Metrics
+	7. Limited To: Max Frames
+	8. Max Number of Frames: 7
+
+Ogre Resolution 1024 x 768

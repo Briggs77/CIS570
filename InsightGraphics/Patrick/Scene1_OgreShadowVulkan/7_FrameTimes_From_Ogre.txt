@@ -1,0 +1,6 @@
+Ogre Debug info:
+
+Frame time:	3.992 ms
+Frame FPS:	250.501
+Avg time:	4.07137ms
+Avg FPS:	245.618
